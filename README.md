@@ -25,3 +25,5 @@ Depending the previous type other boxes arrive to set the value, items to submit
 Affected Elements:
 Item(s)
 
+
+*Note: currently the plugin is build for APEX 5.1, once it's complete we will backport to APEX 5.0 too*
